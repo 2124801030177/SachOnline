@@ -7,6 +7,7 @@ using SachOnline.Models;
 
 namespace SachOnline.Controllers
 {
+    gggg
     public class GioHangController : Controller
     {
         DataClasses1DataContext db = new DataClasses1DataContext("Data Source=FISHDABEZT\\FISHDABEZT;Initial Catalog=SachOnline;Integrated Security=True");
